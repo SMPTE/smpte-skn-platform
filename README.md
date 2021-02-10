@@ -1,6 +1,6 @@
-# smpte-platform-migration
+# SMPTE SKN Platform
 
-**Migration from HL OLC to Office 365 and other Tools**
+**Improving the SMPTE Standards Knowledge Network (SKN)**
 
-This repository was created so that the GitHub Issue Tracker could be used for reporting issues that need to be addressed before the SMPTE Standards Community can move to Microsoft Office 365. This move will allow the SMPTE Standards Community to utilize tools like Teams, Outlook, Sharepoint, Planner, GitHub and others. 
+The purpose of this repository has some what change after we completed the migration from the SMPTE OLC to the SMPT SKN. This repository will now be used to support the continued improvement of the SMPTE SKN. It is specifically used to track issues with and feature requests for the SKN. We will use the Issue Tracker for this repository to do so.
 
