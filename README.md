@@ -17,4 +17,4 @@ Computer system
 
 Please note the following data when submitting feature requests
 - Provide a detailed description of the feature
-- Include a reasoning on how this improve the work in the SKN
+- Include a reasoning on how the feature request will improve the work in the SKN
