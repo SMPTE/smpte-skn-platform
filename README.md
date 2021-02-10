@@ -9,9 +9,12 @@ The purpose of this repository has some what change after we completed the migra
 Please note the following data when submitting issues
 
 Computer system
-OS version
-Browser with version info
-Provide the name of page where the issue was detected (if possible)
-Provide a link to the page where the issue was detected (if possible)
-Provide a detailed description of the issue
+- OS version
+- Browser with version info
+- Provide the name of page where the issue was detected (if possible)
+- Provide a link to the page where the issue was detected (if possible)
+- Provide a detailed description of the issue
 
+Please note the following data when submitting feature requests
+- Provide a detailed description of the feature
+- Include a reasoning on how this improve the work in the SKN
