@@ -9,11 +9,13 @@ The purpose of this repository is to collect issues but also feature request for
 Please provide the following data when submitting issues
 
 Computer system
+```sh
 - OS version
 - Browser with version info
 - Provide the name of page where the issue was detected (if possible)
 - Provide a link to the page where the issue was detected (if possible)
 - Provide a detailed description of the issue
+```
 
 Please provide the following data when submitting feature requests
 
