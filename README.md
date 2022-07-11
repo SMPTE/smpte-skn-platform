@@ -18,6 +18,7 @@ Computer system
 ```
 
 Please provide the following data when submitting feature requests
-
+```sh
 - Provide a detailed description of the feature
 - Include a reasoning on how the feature will improve the work in the SKN
+```
